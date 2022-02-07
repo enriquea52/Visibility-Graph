@@ -1,0 +1,4 @@
+*.pdf
+env_lab[0-10]/
+__pycache__
+visibility*
